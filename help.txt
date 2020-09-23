@@ -1,0 +1,7 @@
+USING AutoLaunch
+==============
+- Click the 'App' Button and choose an application you would like to run automatically
+
+- On the Schedule Tab, set the start time and duration. Then choose either every day or specific days.
+
+- Press Go on the application tab (Or just minimize). (Apps will not run while AutoLaunch is up)
